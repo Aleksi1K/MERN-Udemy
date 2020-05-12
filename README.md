@@ -1,3 +1,14 @@
+Contextin käyttö linkeissä (NavLinks), App.js ja
+Context (tiedon siirtäminen ilman propseja)(kirjautuminen ja milloin mitkäkin linkit etc näkyy)
+
+
+
+
+*googlemaps
+-map.js & css
+-index.html
+-placeitem.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
